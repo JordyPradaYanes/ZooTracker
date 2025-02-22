@@ -1,6 +1,6 @@
 # ZooTracker
 
-#📖 Descripción
+📖 Descripción
 Este sistema está diseñado para la Universidad Francisco de Paula Santander Ocala - Programa de Zootecnia, con el fin de gestionar:
 
 - Registro de animales (especie, raza, historial médico, ubicación).
@@ -13,7 +13,7 @@ Este sistema está diseñado para la Universidad Francisco de Paula Santander Oc
 
 Es una herramienta colaborativa para optimizar procesos académicos y de investigación en el área pecuaria.
 
-#🛠️ Funcionalidades principales
+🛠️ Funcionalidades principales
 
 ✔️ CRUD de animales y lotes.
 
