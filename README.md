@@ -1,59 +1,24 @@
 # ZooTracker
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.8.
+#📖 Descripción
+Este sistema está diseñado para la Universidad Francisco de Paula Santander Ocala - Programa de Zootecnia, con el fin de gestionar:
 
-## Development server
+- Registro de animales (especie, raza, historial médico, ubicación).
 
-To start a local development server, run:
+- Seguimiento de avances en proyectos de investigación.
 
-```bash
-ng serve
-```
+- Resultados experimentales (peso, dieta, reproducción, salud).
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+- Reportes académicos para docentes y estudiantes.
 
-## Code scaffolding
+Es una herramienta colaborativa para optimizar procesos académicos y de investigación en el área pecuaria.
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+#🛠️ Funcionalidades principales
 
-```bash
-ng generate component component-name
-```
+✔️ CRUD de animales y lotes.
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+✔️ Dashboard de métricas (crecimiento, productividad).
 
-```bash
-ng generate --help
-```
+✔️ Autenticación de usuarios (roles: estudiante, docente, administrador).
 
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+✔️ Búsqueda avanzada con filtros (especie, fechas, proyectos).
