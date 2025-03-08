@@ -51,8 +51,6 @@ Es una herramienta colaborativa para optimizar procesos académicos y de investi
 
 ---
 
----
-
 ## 🎯 **Objetivo y Alcance**
 
 ### **Objetivo**

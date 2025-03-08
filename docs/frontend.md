@@ -1,4 +1,4 @@
-# proyecto frontend - ZooTracker
+# Proyecto frontend - ZooTracker
 
 **descripcion de mi proyecto** ZooTracker es una aplicación web desarrollada para el programa de Zootecnia de la Universidad Francisco de Paula Santander Ocaña (UFPSO), con el objetivo de modernizar la gestión de inventarios de animales. Actualmente, el programa maneja sus registros de manera manual, lo que genera ineficiencias y dificultades en la organización de la información. ZooTracker busca resolver estos problemas proporcionando una plataforma centralizada y automatizada que permita registrar, consultar y gestionar datos de animales de manera eficiente.
 
