@@ -17,9 +17,9 @@ Una aplicación web diseñada para gestionar el inventario de animales en el pro
 9. [Gestión del Proyecto](#-gestión-del-proyecto)
 10. [Roles del Equipo](#-roles-del-equipo)
 11. [Instalación y Uso](#-instalación-y-uso)
-12. [Contribuciones](#-contribuciones)
+<!-- 12. [Contribuciones](#-contribuciones)
 13. [Licencia](#-licencia)
-14. [Contacto](#-contacto)
+14. [Contacto](#-contacto) -->
 
 ---
 
