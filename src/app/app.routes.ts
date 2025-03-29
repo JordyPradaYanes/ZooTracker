@@ -7,11 +7,12 @@ import { RegistrosComponent } from './registros/registros.component';
 import { ReportesComponent } from './reportes/reportes.component';
 
 export const routes: Routes = [
-	{path: '', component: MainPageComponent},
-	{path: 'regresar', component: MainPageComponent},
-	{path: 'login', component: LoginComponent},
-	{path: 'inventario', component: InventarioComponent},
-	{path: 'registros', component: RegistrosComponent},
-	{path: 'reportes', component: ReportesComponent},
+	{ path: '', component: MainPageComponent},
+	{ path: 'regresar', component: MainPageComponent},
+	{ path: 'login', component: LoginComponent},
+	{ path: 'inventario', component: InventarioComponent},
+	{ path: 'registros', component: RegistrosComponent},
+	{ path: 'reportes', component: ReportesComponent},
 	{ path: '**', redirectTo: '' }
 ];
+	

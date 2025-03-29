@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { RouterLink } from '@angular/router';
+import { RouterLink, RouterOutlet } from '@angular/router';
+import { HeaderComponent } from '../header/header.component';
 import { FormsModule, ReactiveFormsModule, FormBuilder, FormGroup, Validators } from '@angular/forms';
 
 interface Animal {
@@ -33,7 +34,7 @@ interface RegistroMedico {
   selector: 'app-registros',
   templateUrl: './registros.component.html',
   standalone: true,
-  imports: [CommonModule, FormsModule, ReactiveFormsModule, RouterLink],
+  imports: [CommonModule, FormsModule, ReactiveFormsModule, RouterLink,HeaderComponent,RouterOutlet],
   styleUrls: ['./registros.component.css']
 })
 export class RegistrosComponent implements OnInit {

@@ -3,12 +3,13 @@ import { CommonModule } from '@angular/common';
 import { RouterLink } from '@angular/router';
 import { DatePipe } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
+import { HeaderComponent } from '../header/header.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @Component({
   selector: 'app-inventario',
   standalone: true,
-  imports: [CommonModule,RouterOutlet, FormsModule, ReactiveFormsModule, RouterLink],
+  imports: [CommonModule,RouterOutlet, FormsModule, ReactiveFormsModule, RouterLink,HeaderComponent],
   templateUrl: './inventario.component.html',
   styleUrls: ['./inventario.component.css'],
   providers: [DatePipe]
